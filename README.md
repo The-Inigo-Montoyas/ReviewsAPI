@@ -27,6 +27,6 @@ I was responsible for the reviews section of this platform, in which users have 
 
 # Results
 
-<img src="GiveInstancesMeta.png"></img>
+<img src="FiveInstancesMeta.png"></img>
 
  

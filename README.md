@@ -4,5 +4,5 @@ For this project I worked with a team of engineers on the systems design of an e
 
 I was responsible for the reviews section of this platform, in which users have the ability to review a product or search reviews about a product. 
 
-<img src="./imgs/Final%20Schema"></img>
+<img src="./imgs/Final%20Schema.png"></img>
  

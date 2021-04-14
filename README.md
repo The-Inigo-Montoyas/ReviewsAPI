@@ -6,7 +6,7 @@ I was responsible for the reviews section of this platform, in which users have 
 
 # Technologies Utilized
 
-<a src="https://www.postgresql.org/">PostgreSQL</a>
+<a href="https://www.postgresql.org/">PostgreSQL</a>
 
 # Schema Design
 

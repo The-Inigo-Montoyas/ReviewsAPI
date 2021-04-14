@@ -6,11 +6,27 @@ I was responsible for the reviews section of this platform, in which users have 
 
 # Technologies Utilized
 
-<a href="https://www.postgresql.org/">PostgreSQL</a>
+<a href="https://www.postgresql.org/">postgreSQL</a>
+
+<a href="https://loader.io//">loader.io</a>
+
+<a href="https://www.docker.com/">docker</a>
+
+<a href="https://newrelic.com/">new relic</a>
+
+<a href="https://aws.amazon.com/">AWS</a>
+
+<a href="https://www.nginx.com/">nginx</a>
+
 
 # Schema Design
 
 <img src="./imgs/First%20Schema.png"></img>
 
 <img src="./imgs/Final%20Schema.png"></img>
+
+# Results
+
+<img src="GiveInstancesMeta.png"></img>
+
  
